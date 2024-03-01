@@ -12,10 +12,6 @@ if (number < 2) {
         }
     }
 }
-}
-]
-}
-    }
-}
+
 
 console.log(number + (isPrime ? " is a prime number." : " is not a prime number."));
